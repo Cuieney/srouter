@@ -1,0 +1,1 @@
+include ':app', ':srouter-annotation', ':srouter-api', ':srouter-compiler', ':test'
